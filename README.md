@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 ## BR - Olá, sou o Vinicius e atualmente estou estudando e aprendendo cada vez mais!
-## EN - Hello, I'm Vinicius and I'm currently studying and learning more and more!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Vinicius+Henrique;I'm+18+years+old;I+from+Brasil,+SP;I+study+Software+Engineering+at+Unifio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
